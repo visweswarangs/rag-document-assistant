@@ -1,0 +1,15 @@
+# ── Core framework ────────────────────────────────────────────────────────────
+streamlit>=1.35.0
+
+# ── Google GenAI SDK (official) ───────────────────────────────────────────────
+google-genai>=1.0.0
+
+# ── PDF parsing ───────────────────────────────────────────────────────────────
+pypdf>=4.0.0
+
+# ── Environment variables (.env support) ──────────────────────────────────────
+python-dotenv>=1.0.0
+
+# NOTE: ChromaDB has been replaced with a pure-Python cosine-similarity vector
+# store (stdlib math only).  This removes all native extension dependencies and
+# makes the app work on any Python version, including 3.14+.
