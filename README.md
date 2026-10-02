@@ -1,3 +1,5 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rag-document-assistant-fxwshncymsf3aqt8g4atmf.streamlit.app/)
+
 # 📚 RAG Document Assistant
 
 A production-ready, self-contained **Retrieval-Augmented Generation (RAG)** application that lets you chat with your own PDF and text documents — powered by Google Gemini, ChromaDB, and Streamlit.
